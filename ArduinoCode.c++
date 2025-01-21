@@ -1,4 +1,4 @@
-#include <Wire.h>
+$5000000)#include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 #include <TimeLib.h>
 #include <DS1307RTC.h>
